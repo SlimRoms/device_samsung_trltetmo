@@ -5,5 +5,3 @@ ro.ril.telephony.mqanelements=6
 ro.telephony.ril_class=trlteRIL
 telephony.lteOnGsmDevice=1
 ro.telephony.default_network=9
-ro.telephony.ril.v3=newDriverCallU,newDialCode
-ril.subscription.types=NV,RUIM
