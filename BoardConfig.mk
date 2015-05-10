@@ -20,6 +20,9 @@ TARGET_OTA_ASSERT_DEVICE := trltetmo,trltecan
 # Kernel
 TARGET_KERNEL_VARIANT_CONFIG := apq8084_sec_trlte_tmo_defconfig
 
+# Camera
+TARGET_FIXUP_PREVIEW := true
+
 # Radio
 BOARD_RIL_CLASS := ../../../device/samsung/trltetmo/ril
 
